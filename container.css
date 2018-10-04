@@ -1,0 +1,55 @@
+
+#Container  {
+             
+			 height:auto;
+			 margin-left:auto;
+			 margin-right:auto;
+			 background-color:#0099FF;
+			 
+			 }
+#Header    {
+            height:110px;
+			background-color:#101010;
+			
+			}
+#Menu  {
+            height:40px;
+			
+			background-color:#333333;
+								 
+			 }
+  
+
+#Mainbody  {
+             width:1350px;
+			 height:900px; 
+			 float:right;
+			background-color:#330000;
+			color:#FFFFFF;
+			}			 
+#Semesterbody  {
+             width:1350px;
+			 height:6000px; 
+			 float:right;
+			background-color:#330000;
+			color:#FFFFFF;
+			}			 
+			 				 	
+				
+	 
+#Footer   {
+            height:70px;
+			background-color:#141414;
+			color:#FFFFFF;
+			padding:3px 0px 0px 0px;
+			border-style:dotted;
+			
+			clear:both;
+			}
+#Mainbody table tr td {
+                         color:#FFFFFF;
+						 }			
+											
+#Mainbody table tr td form input:hover{
+background-color:#009900;
+}
